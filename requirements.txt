@@ -2,5 +2,4 @@ pandas
 streamlit
 spotipy
 numpy
-sklearn
-re
+scikit-learn==1.3.2
